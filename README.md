@@ -6,7 +6,7 @@
 
  YML Validator -) http://www.yamllint.com/  -))  http://yaml-online-parser.appspot.com/ 
  
- pridaná podpora pre plugin:
+ Pridaná podpora pre plugin :
  
  
 
