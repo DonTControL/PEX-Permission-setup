@@ -1,0 +1,123 @@
+groups:
+  Hrac:
+    permissions:
+    - admincmd.item.drop
+    - admincmd.item.drop.other
+    - admincmd.item.kithelp
+    - admincmd.player.list
+    - admincmd.player.loc
+    - modifyworld.*
+    - admincmd.player.kill
+    - admincmd.player.msg
+    - admincmd.player.fireball
+    - admincmd.player.fireball.other
+    - admincmd.player.vulcan
+    - admincmd.player.vulcan.other
+    - admincmd.player.afk
+    - admincmd.warp.tp 
+    - admincmd.warp.tp.all 
+    - admincmd.mob.kill
+    - admincmd.server.list 
+    - admincmd.server.motd
+    - admincmd.server.news
+    - admincmd.server.rules
+    - admincmd.tp.to
+    - admincmd.tp.here
+    - admincmd.tp.toggle.*
+    - admincmd.tp.home
+    info:
+      prefix: '&7'
+    options:
+      default: true
+  Vip:
+    permissions:
+    - admincmd.item.blacklist
+    - admincmd.item.more
+    - admincmd.player.heal
+    - admincmd.player.fly
+    - admincmd.player.eternal
+    - admincmd.player.feed
+    - admincmd.player.fly.allowed 
+    - admincmd.tp.see 
+    - admincmd.tp.back
+    inheritance:
+    - hrac
+    info:
+      prefix: '&f'
+    options:
+      default: false
+  LP:
+    permissions:
+    inheritance:
+    - Vip
+    info:
+      prefix: '&5'
+      options:
+      default: false
+  OP:
+    permissions:
+    - admincmd.time.set
+    - admincmd.time.day
+    - admincmd.time.pause
+    - admincmd.item.add
+    - admincmd.item.add.other
+    - admincmd.item.blacklist
+    - admincmd.item.more
+    - admincmd.item.repairall.other
+    - admincmd.item.color
+    - admincmd.item.alias
+    - admincmd.item.kit.*
+    - admincmd.player.loc.other
+    - admincmd.player.heal.other
+    - admincmd.player.kill.other
+    - admincmd.player.clear
+    - admincmd.player.clear.other
+    - admincmd.player.kick
+    - admincmd.player.spymsg
+    - admincmd.player.ip
+    - admincmd.player.ip.other
+    - admincmd.player.mute
+    - admincmd.player.ban
+    - admincmd.player.invisible
+    - admincmd.player.np   
+    - admincmd.player.fakequit
+    - admincmd.player.feed.other
+    - admincmd.player.gamemode
+    - admincmd.player.gamemode.other
+    - admincmd.player.whois
+    - admincmd.player.whois.other
+    - admincmd.player.whois
+    - admincmd.player.whois.other
+    - admincmd.player.experience   
+    - admincmd.player.experience.other
+    - admincmd.weather.clear
+    - admincmd.weather.storm
+    - admincmd.weather.rain
+    - admincmd.weather.freeze
+    - admincmd.weather.thor
+    - admincmd.weather.thor.other
+    - admincmd.weather.strike
+    - admincmd.weather.strike.other 
+    - admincmd.warp.create
+    - admincmd.warp.tp.other
+    - admincmd.mob.spawn 
+    - admincmd.mob.spawn.other 
+    - admincmd.mob.spawner 
+    - admincmd.server.help 
+    - admincmd.server.set.* 
+    - admincmd.tp.players
+    - admincmd.tp.location
+    inheritance:
+    - Vip
+    info:
+      prefix: '&6'
+    options:
+      default: false
+  Majitel:
+    permissions:
+    - admincmd.*
+    info:
+      prefix: '&d'
+    options:
+      default: false
+schema-version: 1
