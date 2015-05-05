@@ -1,6 +1,6 @@
 # PEX-Permission-setup
  
- konfigurácia permission.yml na mojiom serveri.... 
+ konfigurácia permission.yml na mojom serveri.... 
  
  Plugin: PermissionsEx -) http://dev.bukkit.org/bukkit-plugins/permissionsex/
 
