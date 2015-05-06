@@ -1,6 +1,8 @@
 groups:
   Hrac:
     permissions:
+     - admincmd.warp.tp.all
+     - admincmd.warp.tp
      - admincmd.tp.home
      - admincmd.tp.to
      - admincmd.tp.from
@@ -47,7 +49,9 @@ groups:
       options:
       default: false
   OP:
-    permissions:  
+    permissions:
+     - admincmd.warp.create
+     - admincmd.warp.tp.other	
      - admincmd.weather.clear
      - admincmd.weather.storm
      - admincmd.weather.rain
