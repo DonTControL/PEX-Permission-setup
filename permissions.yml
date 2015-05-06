@@ -48,6 +48,10 @@ groups:
       default: false
   OP:
     permissions:  
+     - admincmd.weather.clear
+     - admincmd.weather.storm
+     - admincmd.weather.rain
+     - admincmd.weather.freeze
      - admincmd.player.clear
      - admincmd.player.clear.other
      - admincmd.item.add
