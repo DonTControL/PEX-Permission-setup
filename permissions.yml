@@ -1,15 +1,28 @@
 groups:
   Hrac:
     permissions:
+     - admincmd.player.whois
+     - admincmd.player.reply
+     - admincmd.player.afk
+     - admincmd.player.msg
+     - admincmd.player.loc
+     - admincmd.player.list
      - admincmd.item.kithelp
      - admincmd.item.drop
      - admincmd.item.drop.other
+     - admincmd.player.kill
+     - modifyworld.*
     info:
       prefix: '&7'
     options:
       default: true
   Vip:
     permissions:
+    - admincmd.player.pres
+    - admincmd.player.feed
+    - admincmd.player.fakequit
+    - admincmd.player.fly
+    - admincmd.player.heal
     - admincmd.item.repair
     - admincmd.item.repairall
     inheritance:
@@ -27,7 +40,9 @@ groups:
       options:
       default: false
   OP:
-    permissions: 
+    permissions:  
+     - admincmd.player.clear
+     - admincmd.player.clear.other
      - admincmd.item.add
      - admincmd.item.add.other
      - admincmd.item.more
@@ -39,6 +54,24 @@ groups:
      - admincmd.time.set
      - admincmd.time.day
      - admincmd.time.pause
+     - admincmd.player.loc.other
+     - admincmd.player.heal.other
+     - admincmd.player.kill.other
+     - admincmd.player.spymsg
+     - admincmd.player.ip
+     - admincmd.player.ip.other
+     - admincmd.player.played
+     - admincmd.player.eternal
+     - admincmd.player.eternal.other
+     - admincmd.player.fakequit.other
+     - admincmd.player.feed.other
+     - admincmd.player.gamemode
+     - admincmd.player.gamemode.other
+     - admincmd.player.whois.other
+     - admincmd.player.pres.other
+     - admincmd.player.experience
+     - admincmd.player.experience.other
+     - admincmd.player.fly.allowed
     inheritance:
     - Vip
     info:
