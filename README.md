@@ -9,7 +9,13 @@
  Pridaná podpora pre plugin :
  
  # AdminCMD (stav:nastavovanie)
- -) http://dev.bukkit.org/bukkit-plugins/admincmd/pages/permissions-for-copyn-paste/#w-permissions-ex
+ -) http://dev.bukkit.org/bukkit-plugins/admincmd/pages/permissions-for-copyn-paste/#w-permissions-ex 
+ 
+ # WorldEdit (stav:nastavovanie)
+ -) http://wiki.sk89q.com/wiki/WorldEdit/Permissions  
+ 
+ # WorldGuard (stav:nastavovanie)
+ -) http://docs.enginehub.org/manual/worldguard/latest/permissions/
  
  
 
