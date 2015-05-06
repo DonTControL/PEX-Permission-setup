@@ -17,5 +17,8 @@
  # WorldGuard (stav:nastavovanie)
  -) http://docs.enginehub.org/manual/worldguard/latest/permissions/
  
+ # Ultrabans (stav:nastavovanie)
+ -) https://github.com/deathmarine/Ultrabans/wiki/Permissions
+ 
  
 
