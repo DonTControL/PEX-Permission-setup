@@ -48,6 +48,8 @@ groups:
   Majitel:
     permissions:
     - admincmd.*
+    - worldguard.*
+    - worldedit.*
     info:
       prefix: '&d'
     options:
