@@ -1,6 +1,9 @@
 groups:
   Hrac:
     permissions:
+     - admincmd.server.motd
+     - admincmd.server.news
+     - admincmd.server.rules
      - admincmd.server.list
      - admincmd.spawn.tp
      - admincmd.warp.tp.all
