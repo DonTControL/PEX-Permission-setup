@@ -49,7 +49,11 @@ groups:
       options:
       default: false
   OP:
-    permissions:
+    permissions: 
+     - admincmd.mob.spawn
+     - admincmd.mob.spawn.other
+     - admincmd.mob.kill
+     - admincmd.mob.spawner
      - admincmd.warp.create
      - admincmd.warp.tp.other	
      - admincmd.weather.clear
