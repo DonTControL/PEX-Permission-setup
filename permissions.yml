@@ -1,6 +1,13 @@
 groups:
   Hrac:
     permissions:
+     - admincmd.tp.home
+     - admincmd.tp.to
+     - admincmd.tp.from
+     - admincmd.tp.players
+     - admincmd.tp.location
+     - admincmd.tp.see
+     - admincmd.tp.back
      - admincmd.player.whois
      - admincmd.player.reply
      - admincmd.player.afk
@@ -72,6 +79,9 @@ groups:
      - admincmd.player.experience
      - admincmd.player.experience.other
      - admincmd.player.fly.allowed
+     - admincmd.tp.toggle.use
+     - admincmd.tp.toggle.allow
+     - admincmd.tp.toggle.*
     inheritance:
     - Vip
     info:
