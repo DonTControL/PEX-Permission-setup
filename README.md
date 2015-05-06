@@ -6,6 +6,8 @@
 
  YML Validator -) http://www.yamllint.com/  -))  http://yaml-online-parser.appspot.com/ 
  
+ -------------------------------------------------------------------------------------------------------------
+ 
  Pridaná podpora pre plugin :
  
  # AdminCMD (stav:nastavovanie)
