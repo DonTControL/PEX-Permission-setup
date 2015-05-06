@@ -1,14 +1,17 @@
 groups:
   Hrac:
     permissions:
-    #
+     - admincmd.item.kithelp
+     - admincmd.item.drop
+     - admincmd.item.drop.other
     info:
       prefix: '&7'
     options:
       default: true
   Vip:
     permissions:
-    #
+    - admincmd.item.repair
+    - admincmd.item.repairall
     inheritance:
     - hrac
     info:
@@ -24,8 +27,18 @@ groups:
       options:
       default: false
   OP:
-    permissions:
-    #
+    permissions: 
+     - admincmd.item.add
+     - admincmd.item.add.other
+     - admincmd.item.more
+     - admincmd.item.repairall.other
+     - admincmd.item.color
+     - admincmd.item.alias
+     - admincmd.item.kit.*
+     - admincmd.item.kithelp
+     - admincmd.time.set
+     - admincmd.time.day
+     - admincmd.time.pause
     inheritance:
     - Vip
     info:
