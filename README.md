@@ -8,7 +8,7 @@
  
  Pridaná podpora pre plugin :
  
- #AdminCMD (stav:nastavovanie)
+ # AdminCMD (stav:nastavovanie)
  -) http://dev.bukkit.org/bukkit-plugins/admincmd/pages/permissions-for-copyn-paste/
  
  
