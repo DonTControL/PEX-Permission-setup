@@ -1,6 +1,8 @@
 groups:
   Hrac:
     permissions:
+     - admincmd.server.list
+     - admincmd.spawn.tp
      - admincmd.warp.tp.all
      - admincmd.warp.tp
      - admincmd.tp.home
@@ -50,6 +52,10 @@ groups:
       default: false
   OP:
     permissions: 
+     - admincmd.server.reload
+     - admincmd.server.uptime
+     - admincmd.server.version
+     - admincmd.server.help
      - admincmd.mob.spawn
      - admincmd.mob.spawn.other
      - admincmd.mob.kill
