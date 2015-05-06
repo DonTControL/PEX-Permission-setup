@@ -83,6 +83,7 @@ groups:
     - admincmd.*
     - worldguard.*
     - worldedit.*
+    - ultraban.*
     info:
       prefix: '&d'
     options:
