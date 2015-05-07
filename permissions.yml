@@ -129,6 +129,7 @@ groups:
     - worldguard.*
     - worldedit.*
     - ultraban.*
+    - permissions.*
     info:
       prefix: '&d'
     options:
