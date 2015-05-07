@@ -10,7 +10,7 @@
  
  Pridaná podpora pre plugin :
 
- # AdminCMD (stav:nastavovanie)
+ # AdminCMD (stav:pripravené)
  -) http://dev.bukkit.org/bukkit-plugins/admincmd/pages/permissions-for-copyn-paste/#w-permissions-ex 
  
  # WorldEdit (stav:nastavovanie)
