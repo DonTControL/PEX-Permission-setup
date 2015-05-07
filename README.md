@@ -20,7 +20,10 @@
  -) http://docs.enginehub.org/manual/worldguard/latest/permissions/
  
  # Ultrabans (stav:nastavovanie)
- -) https://github.com/deathmarine/Ultrabans/wiki/Permissions
+ -) https://github.com/deathmarine/Ultrabans/wiki/Permissions 
+ 
+ # GriefPrevention (stav:nastavovanie)
+ -) http://dev.bukkit.org/bukkit-plugins/grief-prevention/pages/command-and-permissions-reference/#w-permissions
  
  
 
