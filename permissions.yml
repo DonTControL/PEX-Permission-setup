@@ -1,6 +1,12 @@
 groups:
   Hrac:
     permissions:
+     - griefprevention.deleteclaims	
+     - griefprevention.createclaims
+     - griefprevention.transferclaim	
+     - griefprevention.buysellclaimb­locks	
+     - griefprevention.visualizenearbyclaims	
+     - griefprevention.eavesdrop	
      - admincmd.server.motd
      - admincmd.server.news
      - admincmd.server.rules
@@ -54,7 +60,15 @@ groups:
       options:
       default: false
   OP:
-    permissions: 
+    permissions:
+     - griefprevention.overrideclaimcountlimit	
+     - griefprevention.adjustclaimblocks	
+     - griefprevention.adminclaims	
+     - griefprevention.claimslistother
+     - griefprevention.ignoreclaims
+     - griefprevention.restorenature	
+     - griefprevention.restorenatureaggressive
+     - griefprevention.lava 
      - admincmd.server.reload
      - admincmd.server.uptime
      - admincmd.server.version
