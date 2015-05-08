@@ -22,7 +22,7 @@
  # Ultrabans (stav:nastavovanie)
  -) https://github.com/deathmarine/Ultrabans/wiki/Permissions 
  
- # GriefPrevention (stav:nastavovanie)
+ # GriefPrevention (stav:pripravené)
  -) http://dev.bukkit.org/bukkit-plugins/grief-prevention/pages/command-and-permissions-reference/#w-permissions
  
  
