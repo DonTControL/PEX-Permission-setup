@@ -7,30 +7,7 @@ groups:
     - griefprevention.buysellclaimb­locks	
     - griefprevention.visualizenearbyclaims	
     - griefprevention.eavesdrop	
-    - admincmd.server.motd
-    - admincmd.server.news
-    - admincmd.server.rules
-    - admincmd.server.list
-    - admincmd.spawn.tp
-    - admincmd.warp.tp.all
-    - admincmd.warp.tp
-    - admincmd.tp.home
-    - admincmd.tp.to
-    - admincmd.tp.from
-    - admincmd.tp.players
-    - admincmd.tp.location
-    - admincmd.tp.see
-    - admincmd.tp.back
-    - admincmd.player.whois
-    - admincmd.player.reply
-    - admincmd.player.afk
-    - admincmd.player.msg
-    - admincmd.player.loc
-    - admincmd.player.list
-    - admincmd.item.kithelp
-    - admincmd.item.drop
-    - admincmd.item.drop.other
-    - admincmd.player.kill
+    
     - modifyworld.*
     info:
       prefix: '&7'
@@ -69,54 +46,7 @@ groups:
     - griefprevention.restorenature	
     - griefprevention.restorenatureaggressive
     - griefprevention.lava 
-    - admincmd.server.reload
-    - admincmd.server.uptime
-    - admincmd.server.version
-    - admincmd.server.help
-    - admincmd.mob.spawn
-    - admincmd.mob.spawn.other
-      admincmd.mob.kill
-    - admincmd.mob.spawner
-    - admincmd.warp.create
-    - admincmd.warp.tp.other	
-    - admincmd.weather.clear
-    - admincmd.weather.storm
-    - admincmd.weather.rain
-    - admincmd.weather.freeze
-    - admincmd.player.clear
-    - admincmd.player.clear.other
-    - admincmd.item.add
-    - admincmd.item.add.other
-    - admincmd.item.more
-    - admincmd.item.repairall.other
-    - admincmd.item.color
-    - admincmd.item.alias
-    - admincmd.item.kit.*
-    - admincmd.item.kithelp
-    - admincmd.time.set
-    - admincmd.time.day
-    - admincmd.time.pause
-    - admincmd.player.loc.other
-    - admincmd.player.heal.other
-    - admincmd.player.kill.other
-    - admincmd.player.spymsg
-    - admincmd.player.ip
-    - admincmd.player.ip.other
-    - admincmd.player.played
-    - admincmd.player.eternal
-    - admincmd.player.eternal.other
-    - admincmd.player.fakequit.other
-    - admincmd.player.feed.other
-    - admincmd.player.gamemode
-    - admincmd.player.gamemode.other
-    - admincmd.player.whois.other
-    - admincmd.player.pres.other
-    - admincmd.player.experience
-    - admincmd.player.experience.other
-    - admincmd.player.fly.allowed
-    - admincmd.tp.toggle.use
-    - admincmd.tp.toggle.allow
-    - admincmd.tp.toggle.*
+    
     inheritance:
     - Vip
     info:
@@ -125,7 +55,6 @@ groups:
       default: false
   Majitel:
     permissions:
-    - admincmd.*
     - worldguard.*
     - worldedit.*
     - ultraban.*
