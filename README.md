@@ -10,8 +10,11 @@
  
  Pridaná podpora pre plugin :
 
- # AdminCMD (stav:pripravené)
- -) http://dev.bukkit.org/bukkit-plugins/admincmd/pages/permissions-for-copyn-paste/#w-permissions-ex 
+ # AdminCMD (stav:nepodporované-vymazanie)
+ -) http://dev.bukkit.org/bukkit-plugins/admincmd/pages/permissions-for-copyn-paste/#w-permissions-ex   
+
+ # Esentials (stav:nastavovanie)
+ -) http://wiki.ess3.net/wiki/Command_Reference/Perm 
  
  # WorldEdit (stav:nastavovanie)
  -) http://wiki.sk89q.com/wiki/WorldEdit/Permissions  
